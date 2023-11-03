@@ -1,0 +1,3 @@
+timestamp,experiment_id,project_name,duration,emissions,energy_consumed,country_name,country_iso_code,region,on_cloud,cloud_provider,cloud_region
+2022-02-11T14:07:17,8301ce3c-0e6f-4a1e-8f21-2be7338a2ed0,test,82.32943558692932,0.001157552980266847,0.0017070318305937148,United States,USA,,N,,
+2022-02-11T14:11:29,6c8ea840-89e0-40f9-9b40-d36691d01e21,test,16.511016607284546,0.0002479071240005983,0.00036558616228728365,United States,USA,,N,,

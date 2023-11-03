@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "completeformer"
+  site-url: "https://wm-semeru.github.io/completeformer/"
+  description: "A description of your project"
+  repo-branch: main
+  repo-url: "https://github.com/wm-semeru/completeformer/tree/main/"

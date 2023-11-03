@@ -1,0 +1,15 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_data.ipynb
+      - 01_models.ipynb
+      - 02_train.ipynb
+      - 03_eval.ipynb
+      - 04_cli.ipynb
+      - 05_experiments.hyperparam.ipynb
+      - 06_experiments.paper.ipynb
+      - 07_experiments.data_exploration.ipynb
+      - 08_experiments.toy_example.ipynb
+      - 09_experiments.data_exploration.ipynb
+      - 10_experiments.evaluation_metrics.ipynb
