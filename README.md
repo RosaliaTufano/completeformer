@@ -2,8 +2,11 @@
 > This repository contains the code for training and evaluating the model in our paper.
 
 
-[![DOI T5 Checkpoints](https://zenodo.org/badge/DOI/10.5281/zenodo.7105131.svg)](https://doi.org/10.5281/zenodo.7105131)
-[![DOI ALiBi Checkpoints](https://zenodo.org/badge/DOI/10.5281/zenodo.7089528.svg)](https://doi.org/10.5281/zenodo.7089528)
+T5 Checkpoints: [![DOI T5 Checkpoints](https://zenodo.org/badge/DOI/10.5281/zenodo.7105131.svg)](https://doi.org/10.5281/zenodo.7105131)
+
+ALiBi Checkpoints: [![DOI ALiBi Checkpoints](https://zenodo.org/badge/DOI/10.5281/zenodo.7089528.svg)](https://doi.org/10.5281/zenodo.7089528)
+
+Datasets and Sinusoidal and xPOS Checkpoints: [![DOI Datasets and Sinusoidal and xPOS Checkpoints](https://zenodo.org/badge/DOI/10.5281/zenodo.7833996.svg)](https://doi.org/10.5281/zenodo.7833996)
 
 ## Usage
 
